@@ -1,3 +1,24 @@
-body{
-    background-color: black;
+body {
+    background-color: gray;
+  }
+  h1 {
+    color: green;
+    font-family: 'Courier New', Times, serif, sans-serif,Monospace;
+  }
+  h2{
+    color: blue;
+    font-family: 'Lucida Console', Times, serif, sans-serif,Monospace;
+  }
+  p {
+    color: red;
+  }
+
+  p{
+
+    color: blue;
+
+    font-family: 'Courier New', Times, serif, sans-serif,Monospace;
+
+   
+
 }
